@@ -67,4 +67,4 @@ Python, TensorFlow/Keras, pandas, matplotlib/seaborn
 
 This repo includes the training/preprocessing scripts and result visualizations (accuracy curves, confusion matrices), but not the downloaded image dataset itself — regenerate it locally with `download_images.py` against the [source dataset listing](https://github.com/uchidalab/book-dataset/blob/master/Task2/book32-listing.csv).
 
-A full project demo video is available [here][(#](https://www.youtube.com/watch?v=IlD_hUtVaVI)) 
+A full project demo video is available [here][(https://www.youtube.com/watch?v=IlD_hUtVaVI) 
